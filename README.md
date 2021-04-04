@@ -1,2 +1,2 @@
 # AI-learnings
-Practice notebooks for Machine learning and Deep learning
+Machine learning and Deep learning applications at supportvector labs
